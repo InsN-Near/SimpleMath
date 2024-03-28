@@ -2,7 +2,7 @@ import sympy as sp
 
 def metodo_newton_raphson(funcao_str, chute_inicial, tol=1e-5, iter_max=5):
     """
-    Implementa o Método de Newton-Raphson para encontrar raízes de uma função.
+    Implementa o Método de Newton-Raphson para encontrar raízes de uma função...
 
     Argumentos:
         funcao_str: Representação da função como texto (ex.: "x**3 - 2*x - 5")
